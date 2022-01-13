@@ -1,0 +1,38 @@
+.footer1 {
+    background-color: rgb(27, 21, 21);
+    text-align-last: none;
+    height: 200px;
+    width: 100%;
+    /* margin-top: 70%; */
+    box-shadow: 5px 10px 10px grey;
+    border-radius: 10px;
+}
+.column1{
+    float: left;
+    /* width: 50%; */
+    /* color: whitesmoke; */
+  }
+  
+  /* Clear floats after the columns */
+  
+  .row1{
+    content: "";
+    display: table;
+    clear: both;
+    color: whitesmoke;
+
+  }
+
+   .ul {
+       margin-left: 450%;
+        color: whitesmoke; 
+       font-size: large;
+
+   }
+.imgLogo{
+    margin-left: 50%;
+    align-items: center;
+    width: 10%;
+    height: 100%;
+         
+}
